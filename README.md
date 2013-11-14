@@ -18,7 +18,7 @@ A simple front-end HTML/JS based interface for the Google Analytics API.
   window.clientId = 'yourapp.apps.googleusercontent.com'; // Your client ID
   window.apiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // Your API Key
 
-3. Start your web server and navigate to the `experiments.html` file.
+Then start your web server and navigate to any of the `.html` files in the root.
 
 #### Usage
 The interface queries the Management API via the Google javascript client.

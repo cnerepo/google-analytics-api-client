@@ -5,7 +5,7 @@ A simple front-end HTML/JS based interface for the Google Analytics API.
 
 #### Installation
 1. Clone this repo and its HTML/JS files into the serving directory of any web server.
-2. Create a `secrets.js` file in the same directory that contains your authentication information:
+2. Create a `secrets.js` file in the `js` directory, which will contain your authentication information:
 
   ```javascript
   /**
